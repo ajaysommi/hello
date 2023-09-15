@@ -1,0 +1,6 @@
+user_name = input("Hello. What is your name? ")
+print(f"It's nice to meet you, {user_name}.", end=" ")
+user_age = input("How old are you? ")
+print(f"I see that you are still quite young at only {user_age}.")
+user_location = input("Where do you live? ")
+print(f"Wow! I've always wanted to go to {user_location}. Thanks for chatting with me. Bye!")
